@@ -219,7 +219,7 @@
     </div>
 
     <div class="heroe">
-
+        Selamat datang
         <h1>Welcome to akusiapa22 <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
         <h2>The small framework with powerful features</h2>
